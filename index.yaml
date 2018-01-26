@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  rabbitmq:
+  - appVersion: 3.7.2
+    created: 2018-01-26T12:13:20.320421615+03:00
+    description: Open source message broker software that implements the Advanced
+      Message Queuing Protocol (AMQP)
+    digest: 5eaa13a3dc085f2ce930081d493398ea4bef2a156a0151853da93ab08e00322b
+    engine: gotpl
+    home: https://www.rabbitmq.com
+    icon: https://bitnami.com/assets/stacks/rabbitmq/img/rabbitmq-stack-220x234.png
+    keywords:
+    - rabbitmq
+    - message queue
+    - AMQP
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: rabbitmq
+    sources:
+    - https://github.com/bitnami/bitnami-docker-rabbitmq
+    urls:
+    - rabbitmq-0.6.16.tgz
+    version: 0.6.16
+generated: 2018-01-26T12:13:20.319620263+03:00
